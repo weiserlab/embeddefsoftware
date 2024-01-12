@@ -23,6 +23,13 @@ The course is coordinated and taught by the instructor Prof. Ambuj Varshney. The
 {% assign num_support_staff = support_staff | size %}
 {% if num_support_staff != 0 %}
 
+## Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
 
 ## Support Staff
 
