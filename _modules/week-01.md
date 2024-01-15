@@ -1,23 +1,9 @@
 ---
-title: Introduction to Java
+title: Introduction
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+January 15th 2024
+: [Embedded Systems and Wireless Overview](#)
+  : [(Seminar Room 3 (COM1-0212), 6:30 to 8:30 pm)](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
