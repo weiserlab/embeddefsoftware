@@ -1,13 +1,13 @@
 January 22th 2024
 : [Sensing and Actuation](#)
-  : [(SR 3 (COM1-0212), 6:30 to 8:30 pm)](#)
+  : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 
 January 29th 2024
 : [Sensing and Actuation](#)
-  : [(SR 3 (COM1-0212), 6:30 to 8:30 pm)](#)
+  : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 
 February 5th 2024
 : [Energy Consumption, Battery-lifespan estimation](#)
-  : [(SR 3 (COM1-0212), 6:30 to 8:30 pm)](#)
+  : [(COM1-0212, 6:30 to 8:30 pm)](#)
