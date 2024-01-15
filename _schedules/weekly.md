@@ -48,6 +48,6 @@ schedule:
         end: 6 PM
         location: COM3, 02-25 
 
-- name: Thursday
+- name: Friday
   
 ---
