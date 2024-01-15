@@ -31,12 +31,7 @@ schedule:
 
   - name: Monday
         
-  - name: Thursday
-    events:
-      - name: Office Hours
-        start: 4 PM
-        end: 6 PM
-        location: COM3, 02-25 
+ 
 
   - name: Monday
     events:
@@ -44,4 +39,12 @@ schedule:
         start: 6:30 PM
         end: 8:30 PM
         location: Seminar Room 3 (COM1-0212)
+
+
+  - name: Thursday
+    events:
+      - name: Office Hours
+        start: 4 PM
+        end: 6 PM
+        location: COM3, 02-25         
 ---
