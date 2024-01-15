@@ -12,5 +12,5 @@ January 29th 2024
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 February 5th 2024
-: [Project: Embedded Platforms, Programming and Eqipments](#)
+: [Embedded Platforms, Programming and Equipments](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)

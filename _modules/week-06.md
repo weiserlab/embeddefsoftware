@@ -3,12 +3,12 @@ title: Tiny Machine Learning and Language Models at Edge (Instructor and Student
 ---
 
 March 18th 2024
-: [Overview and Student Seminar](#)
+: [Instructor Overview and Student Seminar](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 
 March 25th 2024
-: [Overview and Student Seminar](#)
+: [Instructor Overview and Student Seminar](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 
