@@ -6,31 +6,50 @@ description: Grading Crtieria
 
 # Grading
 
-The assessment of a student's performance in the course is based on their performance throughout the course, evaluated through participation in class seminar, a term paper, and a project that can be done in a group.
+The assessment of a student's performance  is based on their performance throughout the course, evaluated through participation in class seminar, a term paper, and a project that can be done in a group.
 
 ## Assesment Breakdown
 
 Component |  Weightage (%) 
-Final assesment |  40
-Tutorial |  10
-Assignment 1 | 5
-Assignment 2 | 10
-Assignment 3 | 15
-Project | 20
+Project |  50
+Class Seminar |  20
+Term paper (Individual) | 30
+
+If, we decide to hold a final assesment, the relative percentage of components will be altered.
+
+## Project Assesment Breakdown
+
+Component |  Weightage (%) 
+Problem Statement (Novelty)|  25
+Report |  15
+Presentation | 25
+Execution | 35
+
+## Class Seminar Assesment Breakdown
+
+Component |  Weightage (%) 
+Attendance |  30
+Presentation Quality |  70
+
+ ## Term Paper
+
+ At the discretion of the instructor. We would consider writing quality, depth, and originality among the grading criteria.
 
 ## Important Deadlines
 
 Event |  Date
-Tutorials | Starting Week 3 (29th January 2024)
-Final Assesment |  29th April 2024 1:00 PM 
-Assignment 1 | Demonstrate to TA's in Week 5
-Assignment 2 | TBA
-Assignment 3 | TBA
-Project | 26th April 2024 (End-of-Day)
+Lectures | Starting Week 1 (15th January 2024)
+Student Seminar Topic Selection| Due end of recess week (10th March 2024)
+Project  Statement | Due end of recess week (10th March 2024)
+Student Seminar | Begins (18th March 2024)
+Project Presentation  | 15th April 2024
+Term Paper Submission  | End-of-Day (19th April 2024)
+Project Submission (Code, Brief Report) | End-of-Day (19th April 2024)
+
 
 ## Submission Instruction
 
-TBA
+The project statement,  and term paper are to be submitted in CANVAS. The selection of topics for seminar can be done by emailing the instructor with Subject - CS5272: Student seminar selection.
 
 
 
