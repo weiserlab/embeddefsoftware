@@ -49,7 +49,7 @@ Project Submission (Code, Brief Report) | End-of-Day (19th April 2024)
 
 ## Submission Instruction
 
-The project statement,  and term paper are to be submitted in CANVAS. The selection of topics for seminar can be done by emailing the instructor with Subject - CS5272: Student seminar selection.
+The project statement,  term paper, and project code/report are to be submitted in CANVAS. The selection of topics for seminar is coordinated by emailing the instructor.
 
 
 
