@@ -30,7 +30,17 @@ timeline:
 schedule:
 
   - name: Monday
-        
+  
+  - name: Monday
+    events:
+      - name: Lecture
+        start: 6:30 PM
+        end: 8:30 PM
+        location: Seminar Room 3 (COM1-0212)
+
+  - name: Tuesday
+  - name: Wednesday
+  
   - name: Thursday
     events:
       - name: Office Hours
@@ -38,10 +48,6 @@ schedule:
         end: 6 PM
         location: COM3, 02-25 
 
-  - name: Monday
-    events:
-      - name: Lecture
-        start: 6:30 PM
-        end: 8:30 PM
-        location: Seminar Room 3 (COM1-0212)
+- name: Thursday
+  
 ---
