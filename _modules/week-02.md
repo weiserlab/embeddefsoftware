@@ -13,5 +13,5 @@ January 29th 2024
 
 
 February 5th 2024
-: [Energy Consumption, Battery-lifespan estimation](#)
+: [Energy Consumption, Battery lifespan estimation](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
