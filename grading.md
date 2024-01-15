@@ -6,7 +6,7 @@ description: Grading Crtieria
 
 # Grading
 
-The assessment of a student's performance  is based on their performance throughout the course, evaluated through participation in seminar, a term paper, and a project that can be done in a group.
+The assessment of a student's performance  is based on their performance throughout the course, evaluated through participation in seminar, a term paper, and a project. The project can be done in a group.
 
 ## Assesment Breakdown
 
