@@ -1,5 +1,5 @@
 ---
-title: Wirelss Basics
+title: Wireless Basics
 ---
 
 February 12th 2024
@@ -7,7 +7,7 @@ February 12th 2024
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 February 19th 2024
-: [WiFi, ZigBee and BLE Introduction](#)
+: [WiFi, ZigBee and BLE](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 February 26th 2024
