@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student Seminar
+title: Seminars
 description: Information regarding student seminar 
 ---
 
