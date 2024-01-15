@@ -8,10 +8,9 @@ January 22th 2024
 
 
 January 29th 2024
-: [Sensing and Actuation](#)
+: [Power Management, Energy Consumption, Battery lifespan estimation](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
-
 February 5th 2024
-: [Energy Consumption, Battery lifespan estimation](#)
+: [Project: Programming, Platforms and Eqipments](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
