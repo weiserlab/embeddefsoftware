@@ -9,8 +9,9 @@ January 22th 2024
 
 
 January 29th 2024
-: [Power Management, Energy Consumption, Battery lifespan estimation](#)
+: [Sensing and Actuation, Interfacing](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
+  : [Slide (PPT)](https://weiserlab.github.io/embeddefsoftware/CS5272_Lecture3.pptx)
 
 February 5th 2024
 : [Embedded Platforms, Programming and Equipments](#)
