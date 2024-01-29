@@ -14,5 +14,5 @@ January 29th 2024
   : [Slide (PPT)](https://weiserlab.github.io/embeddefsoftware/CS5272_Lecture3.pptx)
 
 February 5th 2024
-: [Embedded Platforms, Programming and Equipments](#)
+: [Interfacing Sensors and Actuators - II, Power Management](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
