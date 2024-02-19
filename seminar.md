@@ -39,3 +39,16 @@ You are welcome to also select papers outside the mentioned list.
 
 [Dhananjay Jagtap, Alex Yen, Huanlei Wu, Aaron Schulman, and Pat Pannuto. 2021. Federated infrastructure: usage, patterns, and insights from "the people's network". In Proceedings of the 21st ACM Internet Measurement Conference (IMC '21)](https://dl.acm.org/doi/10.1145/3487552.3487846)|
 
+### Embedded Applications and Security
+
+
+### Language and Image Models
+
+
+### TinyML and Machine Learning at the Edge
+
+
+### Augmented and Virtual Reality
+
+
+
