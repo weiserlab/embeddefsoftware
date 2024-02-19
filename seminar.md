@@ -26,6 +26,8 @@ You are welcome to also select papers outside the mentioned list.
 
 ### Low-Power Communication through Backscatter Mechanism
 
+[Vincent Liu, Aaron Parks, Vamsi Talla, Shyamnath Gollakota, David Wetherall, and Joshua R. Smith. 2013. Ambient backscatter: wireless communication out of thin air. In Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM (SIGCOMM '13)](https://dl.acm.org/doi/10.1145/2486001.2486015)|
+
 
 ### Emerging Networks
 
