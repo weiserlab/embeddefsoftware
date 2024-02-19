@@ -1,10 +1,15 @@
 ---
-title: Reccess Week
+title: Wireless Communication
 ---
 
-March 1st 2024
-: [Reccess Week (NO LECTURE)](#)
-  : [(NO LECTURE)](#)
+March 4th 2024
+: [Basics of Wireless Communication for Embedded Application](#)
+  : [(COM1-0212, 6:30 to 8:30 pm)](#)
+
+March 11th 2024
+: [Wireless Communication for Embedded Applications](#)
+  : [(COM1-0212, 6:30 to 8:30 pm)](#)
+
 
 
 
