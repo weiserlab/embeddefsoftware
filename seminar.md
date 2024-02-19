@@ -13,11 +13,9 @@ Student-led seminars are a critical component of the course, with attendance and
 
 You are welcome to also select papers outside the mentioned list.
 
-
 ### Battery-free Applications
 
 [Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, and Joshua R. Smith. 2017. Battery-Free Cellphone. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.](https://dl.acm.org/doi/10.1145/3090090)|
-
 
 [Saman Naderiparizi, Mehrdad Hessar, Vamsi Talla, Shyamnath Gollakota, and Joshua R. Smith. 2018. Towards battery-free HD video streaming. In Proceedings of the 15th USENIX Conference on Networked Systems Design and Implementation (NSDI'18)](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-naderiparizi.pdf)|
 
@@ -28,9 +26,13 @@ You are welcome to also select papers outside the mentioned list.
 
 [Vincent Liu, Aaron Parks, Vamsi Talla, Shyamnath Gollakota, David Wetherall, and Joshua R. Smith. 2013. Ambient backscatter: wireless communication out of thin air. In Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM (SIGCOMM '13)](https://dl.acm.org/doi/10.1145/2486001.2486015)|
 
+[Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, and Joshua Smith. 2016. Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices. In Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM '16)](https://dl.acm.org/doi/10.1145/2934872.2934894)
+
+[Vamsi Talla, Mehrdad Hessar, Bryce Kellogg, Ali Najafi, Joshua R. Smith, and Shyamnath Gollakota. 2017. LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.](https://dl.acm.org/doi/10.1145/3130970)
 
 ### Emerging Networks
 
 [Alex Bellon, Alex Yen, and Pat Pannuto. 2023. TagAlong: Free, Wide-Area Data-Muling and Services. In Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications (HotMobile '23)](https://patpannuto.com/pubs/bellon2023tagalong.pdf)|
 
-### 
+[Dhananjay Jagtap, Alex Yen, Huanlei Wu, Aaron Schulman, and Pat Pannuto. 2021. Federated infrastructure: usage, patterns, and insights from "the people's network". In Proceedings of the 21st ACM Internet Measurement Conference (IMC '21)](https://dl.acm.org/doi/10.1145/3487552.3487846)
+
