@@ -15,6 +15,3 @@ February 26th 2024
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
 
 
-March 4th 2024
-: [Basics of Wireless Communication for Embedded Application](#)
-  : [(COM1-0212, 6:30 to 8:30 pm)](#)
