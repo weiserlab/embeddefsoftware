@@ -32,6 +32,8 @@ You are welcome to also select papers outside the mentioned list.
 
 [Zerina Kapetanovic, Shanti Garman, Dara Stotland, and Joshua R. Smith. 2023. Cosmic Backscatter: New Ways to Communicate via Modulated Noise. In Proceedings of the 22nd ACM Workshop on Hot Topics in Networks (HotNets '23)](https://dl.acm.org/doi/10.1145/3626111.3628203)|
 
+[Wenli Jiao, Yanlin Li, Xiangdong Xi, Ju Wang, Dingyi Fang, and Xiaojiang Chen. 2023. BioScatter: Low-Power Sweat Sensing with Backscatter. In Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services (MobiSys '23)](https://dl.acm.org/doi/abs/10.1145/3581791.3596834)|
+
 
 ### Emerging Networks
 
@@ -40,6 +42,9 @@ You are welcome to also select papers outside the mentioned list.
 [Dhananjay Jagtap, Alex Yen, Huanlei Wu, Aaron Schulman, and Pat Pannuto. 2021. Federated infrastructure: usage, patterns, and insights from "the people's network". In Proceedings of the 21st ACM Internet Measurement Conference (IMC '21)](https://dl.acm.org/doi/10.1145/3487552.3487846)|
 
 ### Embedded Applications and Security
+
+
+
 
 
 ### Language and Image Models
