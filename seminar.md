@@ -30,6 +30,9 @@ You are welcome to also select papers outside the mentioned list.
 
 [Vamsi Talla, Mehrdad Hessar, Bryce Kellogg, Ali Najafi, Joshua R. Smith, and Shyamnath Gollakota. 2017. LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.](https://dl.acm.org/doi/10.1145/3130970)
 
+[Zerina Kapetanovic, Shanti Garman, Dara Stotland, and Joshua R. Smith. 2023. Cosmic Backscatter: New Ways to Communicate via Modulated Noise. In Proceedings of the 22nd ACM Workshop on Hot Topics in Networks (HotNets '23)](https://dl.acm.org/doi/10.1145/3626111.3628203)
+
+
 ### Emerging Networks
 
 [Alex Bellon, Alex Yen, and Pat Pannuto. 2023. TagAlong: Free, Wide-Area Data-Muling and Services. In Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications (HotMobile '23)](https://patpannuto.com/pubs/bellon2023tagalong.pdf)|
