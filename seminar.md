@@ -13,4 +13,21 @@ Student-led seminars are a critical component of the course, with attendance and
 
 You are welcome to also select papers outside the mentioned list.
 
-Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, and Joshua R. Smith. 2017. Battery-Free Cellphone. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 2, Article 25 (June 2017), 20 pages. https://doi.org/10.1145/3090090|
+
+### Battery-free Applications
+
+[Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, and Joshua R. Smith. 2017. Battery-Free Cellphone. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.](https://dl.acm.org/doi/10.1145/3090090)|
+
+
+[Saman Naderiparizi, Mehrdad Hessar, Vamsi Talla, Shyamnath Gollakota, and Joshua R. Smith. 2018. Towards battery-free HD video streaming. In Proceedings of the 15th USENIX Conference on Networked Systems Design and Implementation (NSDI'18)](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-naderiparizi.pdf)|
+
+|
+
+
+|
+
+
+|
+
+
+|
