@@ -14,6 +14,8 @@ Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses.
 
 Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping - MobiSys 2019 (https://dl.acm.org/doi/10.1145/3307334.3326093)
 
+Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv](https://arxiv.org/abs/2307.03817)
+
 ## Suggested List of Papers
 
 You are welcome to also select papers outside the mentioned list.
@@ -39,7 +41,7 @@ You are welcome to also select papers outside the mentioned list.
 
 [Wenli Jiao, Yanlin Li, Xiangdong Xi, Ju Wang, Dingyi Fang, and Xiaojiang Chen. 2023. BioScatter: Low-Power Sweat Sensing with Backscatter. In Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services (MobiSys '23)](https://dl.acm.org/doi/abs/10.1145/3581791.3596834)|
 
-[Mohamad Katanbaf, Ali Saffari, and Joshua R. Smith. 2021. MultiScatter: Multistatic Backscatter Networking for Battery-Free Sensors. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21)](https://dl.acm.org/doi/10.1145/3485730.3485939)
+[Mohamad Katanbaf, Ali Saffari, and Joshua R. Smith. 2021. MultiScatter: Multistatic Backscatter Networking for Battery-Free Sensors. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21)](https://dl.acm.org/doi/10.1145/3485730.3485939)|
 
 ### Emerging Networks
 
@@ -56,13 +58,13 @@ TBA
 
 [Huatao Xu, Liying Han, Qirui Yang, Mo Li, and Mani Srivastava. 2024. Penetrative AI: Making LLMs Comprehend the Physical World. In Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications (HOTMOBILE '24)](https://dl.acm.org/doi/abs/10.1145/3638550.3641130)
 
-[Zachary Englhardt, Richard Li, Dilini Nissanka, Zhihan Zhang, Girish Narayanswamy, Joseph Breda, Xin Liu, Shwetak Patel, Vikram Iyer. Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. Arxiv](https://arxiv.org/abs/2307.03817)
+[Zachary Englhardt, Richard Li, Dilini Nissanka, Zhihan Zhang, Girish Narayanswamy, Joseph Breda, Xin Liu, Shwetak Patel, Vikram Iyer. Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. Arxiv](https://arxiv.org/abs/2307.03817)|
 
 ### TinyML and Machine Learning at the Edge
 
 [Abu Bakar, Tousif Rahman, Rishad Shafik, Fahim Kawsar, and Alessandro Montanari. 2023. Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines. In Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys '22)](https://dl.acm.org/doi/10.1145/3560905.3568512)
 
-[Robert David, Jared Duke, Advait Jain, Vijay Janapa Reddi, Nat Jeffries, Jian Li, Nick Kreeger, Ian Nappier, Meghna Natraj, Shlomi Regev, Rocky Rhodes, Tiezhen Wang, Pete Warden: TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/abs/2010.08678)
+[Robert David, Jared Duke, Advait Jain, Vijay Janapa Reddi, Nat Jeffries, Jian Li, Nick Kreeger, Ian Nappier, Meghna Natraj, Shlomi Regev, Rocky Rhodes, Tiezhen Wang, Pete Warden: TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/abs/2010.08678)|
 
 
 
