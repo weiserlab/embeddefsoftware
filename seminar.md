@@ -72,13 +72,13 @@ You are welcome to also select papers outside the mentioned list.
 ### Language and Image Models
 
 
-[Huatao Xu, Liying Han, Qirui Yang, Mo Li, and Mani Srivastava. 2024. Penetrative AI: Making LLMs Comprehend the Physical World. In Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications (HOTMOBILE '24)](https://dl.acm.org/doi/abs/10.1145/3638550.3641130)
+[Huatao Xu, Liying Han, Qirui Yang, Mo Li, and Mani Srivastava. 2024. Penetrative AI: Making LLMs Comprehend the Physical World. In Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications (HOTMOBILE '24)](https://dl.acm.org/doi/abs/10.1145/3638550.3641130)|
 
 [Zachary Englhardt, Richard Li, Dilini Nissanka, Zhihan Zhang, Girish Narayanswamy, Joseph Breda, Xin Liu, Shwetak Patel, Vikram Iyer. Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. Arxiv](https://arxiv.org/abs/2307.03817)|
 
 ### TinyML and Machine Learning at the Edge
 
-[Abu Bakar, Tousif Rahman, Rishad Shafik, Fahim Kawsar, and Alessandro Montanari. 2023. Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines. In Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys '22)](https://dl.acm.org/doi/10.1145/3560905.3568512)
+[Abu Bakar, Tousif Rahman, Rishad Shafik, Fahim Kawsar, and Alessandro Montanari. 2023. Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines. In Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys '22)](https://dl.acm.org/doi/10.1145/3560905.3568512)|
 
 [Robert David, Jared Duke, Advait Jain, Vijay Janapa Reddi, Nat Jeffries, Jian Li, Nick Kreeger, Ian Nappier, Meghna Natraj, Shlomi Regev, Rocky Rhodes, Tiezhen Wang, Pete Warden: TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/abs/2010.08678)|
 
