@@ -43,15 +43,31 @@ You are welcome to also select papers outside the mentioned list.
 
 [Mohamad Katanbaf, Ali Saffari, and Joshua R. Smith. 2021. MultiScatter: Multistatic Backscatter Networking for Battery-Free Sensors. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21)](https://dl.acm.org/doi/10.1145/3485730.3485939)|
 
+[Zhanghao Yu, Fatima T. Alrashdan, Wei Wang, Matthew Parker, Xinyu Chen, Frank Y. Chen, Joshua Woods, Zhiyu Chen, Jacob T. Robinson, and Kaiyuan Yang. 2022. Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants. In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking (MobiCom '22)](https://dl.acm.org/doi/10.1145/3495243.3560541)|
+
 ### Emerging Networks
 
 [Alex Bellon, Alex Yen, and Pat Pannuto. 2023. TagAlong: Free, Wide-Area Data-Muling and Services. In Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications (HotMobile '23)](https://patpannuto.com/pubs/bellon2023tagalong.pdf)|
 
 [Dhananjay Jagtap, Alex Yen, Huanlei Wu, Aaron Schulman, and Pat Pannuto. 2021. Federated infrastructure: usage, patterns, and insights from "the people's network". In Proceedings of the 21st ACM Internet Measurement Conference (IMC '21)](https://dl.acm.org/doi/10.1145/3487552.3487846)|
 
+[Hoyoung Kim, Junghun Park, Seonghoon Park, and Jihoon Ryoo. 2022. UGPS: design and field-tested seamless GNSS infrastructure in metro city. In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking (MobiCom '22)](https://dl.acm.org/doi/10.1145/3495243.3560520)|
+
 ### Embedded Applications and Security
 
-TBA
+[Andrea Ferlini, Dong Ma, Robert Harle, and Cecilia Mascolo. 2021. EarGate: gait-based user identification with in-ear microphones. In Proceedings of the 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21)](https://dl.acm.org/doi/abs/10.1145/3447993.3483240) |
+
+[Victor Ariel Leal Sobral, Nurani Saoda, Ruchir Shah, Wenpeng Wang, and Bradford Campbell. 2022. RetroIoT: retrofitting internet of things deployments by hiding data in battery readings. In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking (MobiCom '22)](https://dl.acm.org/doi/abs/10.1145/3495243.3560536) |
+
+[Usman Mahmood Khan and Muhammad Shahzad. 2022. Estimating soil moisture using RF signals. In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking (MobiCom '22)](https://dl.acm.org/doi/abs/10.1145/3495243.3517025) |
+
+[Simon Erni, Martin Kotuliak, Patrick Leu, Marc Roeschlin, and Srdjan Capkun. 2022. AdaptOver: adaptive overshadowing attacks in cellular networks. In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking (MobiCom '22)](https://dl.acm.org/doi/10.1145/3495243.3560525)|
+
+[Yang Bai, Nakul Garg, and Nirupam Roy. 2022. SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation. In Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys '22)](https://dl.acm.org/doi/abs/10.1145/3498361.3539775)|
+
+[Yuxin (Myles) Liu, Yoshimichi Nakatsuka, Ardalan Amiri Sani, Sharad Agarwal, and Gene Tsudik. 2022. Vronicle: verifiable provenance for videos from mobile devices. In Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys '22)](https://dl.acm.org/doi/10.1145/3498361.3538943)|
+
+[Ishan Chatterjee, Maruchi Kim, Vivek Jayaram, Shyamnath Gollakota, Ira Kemelmacher, Shwetak Patel, and Steven M. Seitz. 2022. ClearBuds: wireless binaural earbuds for learning-based speech enhancement. In Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys '22)](https://dl.acm.org/doi/abs/10.1145/3498361.3538933)|
 
 ### Language and Image Models
 
