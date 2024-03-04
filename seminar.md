@@ -12,9 +12,9 @@ Student-led seminars are a critical component of the course, with attendance and
 
 Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses. In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (MobiCom ‘18) 
 
-Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping - MobiSys 2019 (https://dl.acm.org/doi/10.1145/3307334.3326093)
+Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping - MobiSys 2019 
 
-Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv](https://arxiv.org/abs/2307.03817)
+Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv]
 
 ## Suggested List of Papers
 
