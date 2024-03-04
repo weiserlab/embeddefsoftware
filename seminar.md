@@ -16,6 +16,8 @@ Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify 
 
 Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv]
 
+Chinthalapani Rajashekar Reddy | "Nebula: A Privacy-First Platform for Data Backhaul" and "TagAlong: Free, Wide-Area Data-Muling and Services"]
+
 ## Suggested List of Papers
 
 You are welcome to also select papers outside the mentioned list.
