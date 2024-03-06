@@ -18,6 +18,12 @@ Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Langu
 
 Chinthalapani Rajashekar Reddy | "Nebula: A Privacy-First Platform for Data Backhaul" and "TagAlong: Free, Wide-Area Data-Muling and Services"]
 
+Sun Chen |  TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems
+
+Kevin Foong Wei Tong
+ | Penetrative AI: Making LLMs Comprehend the Physical World
+
+
 ## Suggested List of Papers
 
 You are welcome to also select papers outside the mentioned list.
