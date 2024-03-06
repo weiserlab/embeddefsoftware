@@ -20,8 +20,7 @@ Chinthalapani Rajashekar Reddy | "Nebula: A Privacy-First Platform for Data Back
 
 Sun Chen |  TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems
 
-Kevin Foong Wei Tong
- | Penetrative AI: Making LLMs Comprehend the Physical World
+Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World
 
 
 ## Suggested List of Papers
