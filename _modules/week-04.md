@@ -10,6 +10,7 @@ March 4th 2024
 March 11th 2024
 : [Wireless Communication for Embedded Applications](#)
   : [(COM1-0212, 6:30 to 8:30 pm)](#)
+  : [Slide (PPT)](https://weiserlab.github.io/embeddefsoftware/CS5272_Lecture7.pptx)
 
 
 
