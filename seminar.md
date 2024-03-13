@@ -32,6 +32,7 @@ Wang Yihan | BioScatter: Low-Power Sweat Sensing with Backscatter
 
 Hu Jialun | Vronicle: verifiable provenance for videos from mobile devices
 
+Guo Qi |  FarmBeats: An IoT Platform for Data-Driven Agriculture
 
 ## Suggested List of Papers
 
