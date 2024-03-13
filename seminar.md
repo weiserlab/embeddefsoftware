@@ -22,6 +22,16 @@ Sun Chen |  TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems
 
 Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World
 
+Shao Yurui | A Wearable, Patient-Adaptive Freezing of Gait Detection System for Biofeedback Cueing in Parkinson's Disease
+
+Swaminathan Varun |  ClearBuds: wireless binaural earbuds for learning-based speech enhancement 
+
+Huang Nanxi | Battery-free Cellphone
+
+Wang Yihan | BioScatter: Low-Power Sweat Sensing with Backscatter
+
+Hu Jialun | Vronicle: verifiable provenance for videos from mobile devices
+
 
 ## Suggested List of Papers
 
