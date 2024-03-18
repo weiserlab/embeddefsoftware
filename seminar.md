@@ -25,31 +25,32 @@ April 8th 2024 |  Swaminathan Varun  |ClearBuds: wireless binaural earbuds for l
 April 8th 2024 | Hu Jialun| Vronicle: verifiable provenance for videos from mobile devices
 April 8th 2024 |  Guo Qi|FarmBeats: An IoT Platform for Data-Driven Agriculture
 April 8th 2024 | Huang Nanxi |Battery-free Cellphone
+
 ## Selected Papers
 
-Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses. In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (MobiCom ‘18) 
+Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses. In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (MobiCom ‘18) |
 
-Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping - MobiSys 2019 
+Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping - MobiSys 2019 |
 
-Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv]
+Sooriya Patabandige Pramuka Medaranga | Exploring and Characterizing Large Language Models For Embedded System Development and Debugging - Arxiv]|
 
-Chinthalapani Rajashekar Reddy | "Nebula: A Privacy-First Platform for Data Backhaul" and "TagAlong: Free, Wide-Area Data-Muling and Services"]
+Chinthalapani Rajashekar Reddy | "Nebula: A Privacy-First Platform for Data Backhaul" and "TagAlong: Free, Wide-Area Data-Muling and Services"]|
 
-Sun Chen |  TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems
+Sun Chen |  TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems|
 
-Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World
+Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World|
 
-Shao Yurui | A Wearable, Patient-Adaptive Freezing of Gait Detection System for Biofeedback Cueing in Parkinson's Disease
+Shao Yurui | A Wearable, Patient-Adaptive Freezing of Gait Detection System for Biofeedback Cueing in Parkinson's Disease|
 
-Swaminathan Varun |  ClearBuds: wireless binaural earbuds for learning-based speech enhancement 
+Swaminathan Varun |  ClearBuds: wireless binaural earbuds for learning-based speech enhancement |
 
-Huang Nanxi | Battery-free Cellphone
+Huang Nanxi | Battery-free Cellphone|
 
-Wang Yihan | BioScatter: Low-Power Sweat Sensing with Backscatter
+Wang Yihan | BioScatter: Low-Power Sweat Sensing with Backscatter|
 
-Hu Jialun | Vronicle: verifiable provenance for videos from mobile devices
+Hu Jialun | Vronicle: verifiable provenance for videos from mobile devices|
 
-Guo Qi |  FarmBeats: An IoT Platform for Data-Driven Agriculture
+Guo Qi |  FarmBeats: An IoT Platform for Data-Driven Agriculture|
 
 ## Suggested List of Papers
 
