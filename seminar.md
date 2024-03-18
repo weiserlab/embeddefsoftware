@@ -8,6 +8,16 @@ description: Information regarding student seminar
 
 Student-led seminars are a critical component of the course, with attendance and active participation serving as key metrics for course  evaluation. They require students to present a recent research paper (published within the last ten years) from prominent conferences in the field of embedded systems, such as ACM MobiSys, SenSys, MobiCom, Sigcomm, IMWUT, and NSDI.
 
+
+## Seminar Schedule
+
+March 18th 2024 |  Sooriya Patabandige Pramuka Medaranga | [Exploring and Characterizing Large Language Models For Embedded System Development and Debugging](https://arxiv.org/abs/2307.03817)
+March 18th 2024 | Viswanadh K (Guest Presenter)  | Language Model at the Edge
+
+
+
+
+
 ## Selected Papers
 
 Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses. In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (MobiCom ‘18) 
