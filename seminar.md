@@ -21,6 +21,7 @@ Sun Chen  | TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems |
 
 Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World | 
 Dr. Manoj Gulati (Guest Presenter) | Demonstration of classification tasks for TinyML |
+Chinthalapani Rajashekar Reddy | Nebula: A Privacy-First Platform for Data Backhaul and TagAlong: Free, Wide-Area Data-Muling and Services | 
 
 ### April 1st 2024 
 
@@ -31,7 +32,6 @@ Wang Yihan  | BioScatter: Low-Power Sweat Sensing with Backscatter |
 
 ### April 8th 2024 
 
-Chinthalapani Rajashekar Reddy | Nebula: A Privacy-First Platform for Data Backhaul and TagAlong: Free, Wide-Area Data-Muling and Services | 
 Swaminathan Varun  |ClearBuds: wireless binaural earbuds for learning-based speech enhancement |  
 Hu Jialun| Vronicle: verifiable provenance for videos from mobile devices |
 Guo Qi|FarmBeats: An IoT Platform for Data-Driven Agriculture |
