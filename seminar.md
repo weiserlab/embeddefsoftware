@@ -15,10 +15,10 @@ Student-led seminars are a critical component of the course, with attendance and
 
 Sooriya Patabandige Pramuka Medaranga | [Exploring and Characterizing Large Language Models For Embedded System Development and Debugging](https://arxiv.org/abs/2307.03817) |
 Viswanadh K (Guest Presenter)  | Language Model at the Edge |
-Sun Chen  | TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems |
 
 ### March 25th 2024 
 
+Sun Chen  | TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems |
 Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World | 
 Dr. Manoj Gulati (Guest Presenter) | Demonstration of classification tasks for TinyML |
 Chinthalapani Rajashekar Reddy | Nebula: A Privacy-First Platform for Data Backhaul and TagAlong: Free, Wide-Area Data-Muling and Services | 
