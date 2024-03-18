@@ -13,11 +13,18 @@ Student-led seminars are a critical component of the course, with attendance and
 
 March 18th 2024 |  Sooriya Patabandige Pramuka Medaranga | [Exploring and Characterizing Large Language Models For Embedded System Development and Debugging](https://arxiv.org/abs/2307.03817)
 March 18th 2024 | Viswanadh K (Guest Presenter)  | Language Model at the Edge
-
-
-
-
-
+March 25th 2024 | Sun Chen  | TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems
+March 25th 2024 | Kevin Foong Wei Tong | Penetrative AI: Making LLMs Comprehend the Physical World
+March 25th 2024 | Dr. Manoj Gulati (Guest Presenter) | Demonstration of classification tasks for TinyML
+April 1st 2024 | Zhang Chen |  Battery-Free Eye Tracker on Glasses
+April 1st 2024 | Maulana Insan Kamil |  CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping
+April 1st 2024 | Shao Yurui  | A Wearable, Patient-Adaptive Freezing of Gait Detection System for Biofeedback Cueing in Parkinson's Disease
+April 1st 2024 | Wang Yihan  | BioScatter: Low-Power Sweat Sensing with Backscatter 
+April 8th 2024 | Chinthalapani Rajashekar Reddy | Nebula: A Privacy-First Platform for Data Backhaul and TagAlong: Free, Wide-Area Data-Muling and Services
+April 8th 2024 |  Swaminathan Varun  |ClearBuds: wireless binaural earbuds for learning-based speech enhancement
+April 8th 2024 | Hu Jialun| Vronicle: verifiable provenance for videos from mobile devices
+April 8th 2024 |  Guo Qi|FarmBeats: An IoT Platform for Data-Driven Agriculture
+April 8th 2024 | Huang Nanxi |Battery-free Cellphone
 ## Selected Papers
 
 Zhang Chen| Tianxing Li and Xia Zhou. 2018. Battery-Free Eye Tracker on Glasses. In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (MobiCom ‘18) 
