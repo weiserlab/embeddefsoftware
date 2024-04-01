@@ -33,9 +33,13 @@ Wang Yihan  | BioScatter: Low-Power Sweat Sensing with Backscatter |
 ### April 8th 2024 
 
 Swaminathan Varun  |ClearBuds: wireless binaural earbuds for learning-based speech enhancement |  
-Hu Jialun| Vronicle: verifiable provenance for videos from mobile devices |
 Guo Qi|FarmBeats: An IoT Platform for Data-Driven Agriculture |
+
+### April 15th 2024 
+
 Huang Nanxi |Battery-free Cellphone |
+Hu Jialun| Vronicle: verifiable provenance for videos from mobile devices |
+
 
 ## Selected Papers
 
